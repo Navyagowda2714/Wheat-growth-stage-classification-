@@ -20,6 +20,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:070A12,45:1E3A8A,
 
 <br/><br/>
 
+<a href="#-whats-in-this-repo"><b>Files</b></a> •
 <a href="#-project-overview"><b>Overview</b></a> •
 <a href="#-visual-workflow"><b>Workflow</b></a> •
 <a href="#-model-architecture"><b>Model</b></a> •
@@ -27,6 +28,20 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:070A12,45:1E3A8A,
 <a href="#-contact"><b>Contact</b></a>
 
 </div>
+
+---
+
+
+<!-- quickstart:start -->
+## 📂 What's in this repo
+
+| File | What it is |
+|---|---|
+| `WGS_Technical report.pdf` | Full technical report: dataset, preprocessing, CNN architecture, training setup, learning curves and confusion-matrix analysis |
+| `WGS_codesnipet.pdf` | The training and evaluation code, exported from the notebook |
+
+> **Note:** the source notebook and dataset are not committed yet, so the project cannot be re-run from this repository. The PDFs above document the full workflow and results.
+<!-- quickstart:end -->
 
 ---
 
